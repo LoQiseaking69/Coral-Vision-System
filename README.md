@@ -1,6 +1,8 @@
 
 # Raspberry Pi 4 Coral Edge TPU Vision System
 
+![img](https://github.com/LoQiseaking69/Coral-Vision-System/blob/main/CoralVS.jpg)
+
 This project implements a computer vision system using a Raspberry Pi 4 and a Coral USB Accelerator. The system captures video frames, performs inference using the Coral Edge TPU, and stores the inference results in a SQLite database.
 
 ## Hardware Requirements
